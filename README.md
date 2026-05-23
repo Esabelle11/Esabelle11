@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Esabelle Chen 👋
 
 ### 🚀 AI Engineer & LLM Systems Engineer
