@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**Esabelle11/Esabelle11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Esabelle Chen 👋
 
-Here are some ideas to get you started:
+### 🚀 AI Engineer & LLM Systems Engineer
+**Focused on designing reliable AI workflows using retrieval, tool-use, and structured reasoning.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🧠 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Backend & Cloud Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 🏆 Featured AI Projects & Achievements
+
+* **AI Mathematical Reasoning System**
+  Designed a tool-augmented LLM reasoning agent featuring multi-step prompt decomposition, LaTeX parsing, and programmatic verification to eliminate hallucinations.
+* **Elevio Career AI**
+  Developed a production-grade production engine implementing agentic job-resume matching with embedding-based similarity scoring.
+* **RNA 3D Structure Prediction**
+  Built an end-to-end deep learning pipeline (Protenix-based) for molecular structure optimization. Achieved a TM-score of 0.435 in global competition.
+* **Seti Image Classification**
+  Built an end-to-end Convolution Neural Network classification pipeline for Seti signal Image.
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esabelle11&show_icons=true&theme=radial&hide_border=true" alt="Esabelle's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esabelle11&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esabelle-chen-14b576218)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/esabellechen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanteng.chen11@gmail.com)
