@@ -26,13 +26,15 @@
 
 ## 🏆 Featured AI Projects & Achievements
 
-* **AI Mathematical Reasoning System**
+* **AI Mathematical Reasoning System:**
   Designed a tool-augmented LLM reasoning agent featuring multi-step prompt decomposition, LaTeX parsing, and programmatic verification to eliminate hallucinations.
-* **Elevio Career AI**
+* **Elevio Career AI:**
   Developed a production-grade production engine implementing agentic job-resume matching with embedding-based similarity scoring.
-* **RNA 3D Structure Prediction**
+* **WhyBuddy [The Gemma 4 Good Hackathon]:** 
+  An End-to-End Multimodal Educational AI System Powered by Gemma 4. It combines natural language reasoning, knowledge retrieval, image generation, text-to-speech, and video synthesis into a unified pipeline.
+* **RNA 3D Structure Prediction:**
   Built an end-to-end deep learning pipeline (Protenix-based) for molecular structure optimization. Achieved a TM-score of 0.435 in global competition.
-* **Seti Image Classification**
+* **Seti Image Classification:**
   Built an end-to-end Convolution Neural Network classification pipeline for Seti signal Image.
 
 ---
