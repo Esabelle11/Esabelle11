@@ -5,6 +5,13 @@
 
 ---
 
+## 💡 What I Do & Engineering Principles
+- **LLM Alignment & Training:** Engineering robust pipelines for classic fine-tuning and state-of-the-art reinforcement learning from human/ai feedback (RLHF/RLAIF).
+- **Agentic AI Workflows:** Building production-ready, tool-augmented systems utilizing self-correction, tool-use, and programmatic validation to neutralize LLM hallucinations.
+- **Multimodal Architectures:** Designing unified, end-to-end pipelines that orchestrate text, vision, audio, and video synthesis for complex industry verticals.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🧠 Artificial Intelligence & Machine Learning
@@ -26,16 +33,23 @@
 
 ## 🏆 Featured AI Projects & Achievements
 
-* **AI Mathematical Reasoning System:**
-  Designed a tool-augmented LLM reasoning agent featuring multi-step prompt decomposition, LaTeX parsing, and programmatic verification to eliminate hallucinations.
-* **Elevio Career AI:**
-  Developed a production-grade production engine implementing agentic job-resume matching with embedding-based similarity scoring.
-* **WhyBuddy [The Gemma 4 Good Hackathon]:** 
-  An End-to-End Multimodal Educational AI System Powered by Gemma 4. It combines natural language reasoning, knowledge retrieval, image generation, text-to-speech, and video synthesis into a unified pipeline.
-* **RNA 3D Structure Prediction:**
-  Built an end-to-end deep learning pipeline (Protenix-based) for molecular structure optimization. Achieved a TM-score of 0.435 in global competition.
-* **Seti Image Classification:**
-  Built an end-to-end Convolution Neural Network classification pipeline for Seti signal Image.
+*   🚀 **[transformer-architect](https://github.com/Esabelle11/transformer-architect)**
+    A unified, production-grade LLM training and alignment framework. Features modular implementations for downstream tasks (**BERT**), Direct Preference Optimization (**DPO**), and Group Relative Policy Optimization (**GRPO** reinforcement learning pipelines) to streamline model alignment and optimize memory overhead.
+
+*   🧮 **[Tool-Augmented-AI-Mathematical-Reasoning-System](https://github.com/Esabelle11/Tool-Augmented-AI-Mathematical-Reasoning-System)**
+    A tool-augmented LLM reasoning system designed to eliminate hallucinations in multi-step complex problem-solving. Features an advanced orchestrator for multi-step prompt decomposition, LaTeX parsing, and a secure programmatic validation loop using Python execution sandboxes.
+
+*   🤖 **[WhyBuddy](https://github.com/Esabelle11/WhyBuddy) [The Gemma 4 Good Hackathon]**
+    An end-to-end multimodal educational AI assistant powered by Gemma 4. It orchestrates an advanced, unified pipeline combining natural language reasoning, vector-based knowledge retrieval (RAG), image generation, text-to-speech (TTS), and video synthesis for real-time interactive learning.
+
+*   💼 **[ElevioCareer](https://github.com/Esabelle11/ElevioCareer)**
+    A production-grade, AI-driven enterprise web application that leverages LLMs to parse PDF resumes for precise, embedding-based ATS compatibility scoring, while utilizing asynchronous web scraping to dynamically recommend the top 5 most relevant job listings.
+
+*   🧬 **[RNA 3D Structure Prediction - Kaggle ](https://www.kaggle.com/code/esabellechen/sf-rna-p2-template-protenix-merging)**
+    Built an end-to-end deep learning pipeline utilizing Protenix-based architectures for molecular structure optimization. Implemented rigorous molecular sequence preprocessing, heavy feature engineering, and ensemble-based refinement during the competition validation phase.
+
+*   🌌 **[Seti Image Classification](https://github.com/Esabelle11/seti_classifier)**
+    Developed an end-to-end Convolutional Neural Network (CNN) classification and inference pipeline optimized for detecting anomalies in Seti signal spectrogram images.
 
 ---
 
