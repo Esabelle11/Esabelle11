@@ -32,6 +32,8 @@
 ---
 
 ## 🏆 Featured AI Projects & Achievements
+*   🎙️ **[Autonomous Debate Ecosystem (ADE)](https://github.com/Esabelle11/Autonomous-Debate-Ecosystem)**
+    A multi-agent AI framework that automatically transforms daily news into debate-driven podcast episodes. The system discovers news, extracts facts, generates editorial angles, evaluates debate quality, orchestrates AI debaters, identifies viral moments, and produces fully voiced podcast content.
 
 *   🚀 **[transformer-architect](https://github.com/Esabelle11/transformer-architect)**
     A unified, production-grade LLM training and alignment framework. Features modular implementations for downstream tasks (**BERT**), Direct Preference Optimization (**DPO**), and Group Relative Policy Optimization (**GRPO** reinforcement learning pipelines) to streamline model alignment and optimize memory overhead.
