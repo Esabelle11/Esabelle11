@@ -41,6 +41,9 @@
 *   🧮 **[Tool-Augmented-AI-Mathematical-Reasoning-System](https://github.com/Esabelle11/Tool-Augmented-AI-Mathematical-Reasoning-System)**
     A tool-augmented LLM reasoning system designed to eliminate hallucinations in multi-step complex problem-solving. Features an advanced orchestrator for multi-step prompt decomposition, LaTeX parsing, and a secure programmatic validation loop using Python execution sandboxes.
 
+*   🏗️ **[Prompt Linter](https://github.com/Esabelle11/Pompt-Linter)**
+   A Developer Experience (DX) tool built with the OpenAI Responses API and GPT models that transforms vague developer prompts into structured software specifications before generating structured project scaffolds.
+
 *   🤖 **[WhyBuddy](https://github.com/Esabelle11/WhyBuddy) [The Gemma 4 Good Hackathon]**
     An end-to-end multimodal educational AI assistant powered by Gemma 4. It orchestrates an advanced, unified pipeline combining natural language reasoning, vector-based knowledge retrieval (RAG), image generation, text-to-speech (TTS), and video synthesis for real-time interactive learning.
 
