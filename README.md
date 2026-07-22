@@ -37,7 +37,7 @@
    An AI-powered software engineering workflow that sits between a human idea and an AI coding agent. Instead of sending vague prompts directly to an LLM, PromptForge AI performs requirements engineering, specification compilation, multi-agent engineering review, production-readiness prediction, and finally generates a production-grade implementation brief that AI coding agents can reliably execute.
     
 *   🎙️ **[Autonomous Debate Ecosystem (ADE)](https://github.com/Esabelle11/Autonomous-Debate-Ecosystem)**
-    | [🎬 Watch Demo](https://youtu.be/P93inCCb3RE) | [🌐 View Debate Popcast ](https://infinite-debate.vercel.app)  
+    | [🎬 Watch Demo](https://youtu.be/P93inCCb3RE) | [🌐 View Debate Podcast ](https://infinite-debate.vercel.app)  
     A multi-agent AI framework that automatically transforms daily news into debate-driven podcast episodes. The system discovers news, extracts facts, generates editorial angles, evaluates debate quality, orchestrates AI debaters, identifies viral moments, and produces fully voiced podcast content.
 
 *   🚀 **[transformer-architect](https://github.com/Esabelle11/transformer-architect)**
