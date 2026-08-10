@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Featured AI Projects & Achievements
-*   🏗️ **[PromptForge AI](https://github.com/Esabelle11/Prompt-Forge-AI)**
+*   🏗️ **[PromptForge AI](https://github.com/Esabelle11/Prompt-Forge-AI) [Advance Version](https://github.com/Esabelle11/PromptForge-Ensemble)**
     | [🎬 Watch Demo](https://youtu.be/3kM00AKnHXY) | [🌐 Live Web App](https://prompt-forge-ai-delta.vercel.app/)  
    An AI-powered software engineering workflow that sits between a human idea and an AI coding agent. Instead of sending vague prompts directly to an LLM, PromptForge AI performs requirements engineering, specification compilation, multi-agent engineering review, production-readiness prediction, and finally generates a production-grade implementation brief that AI coding agents can reliably execute.
     
