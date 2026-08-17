@@ -44,28 +44,25 @@
     | [🎬 Watch Demo](https://youtu.be/P93inCCb3RE) | [🌐 View Debate Podcast ](https://infinite-debate.vercel.app)  
     A multi-agent AI framework that automatically transforms daily news into debate-driven podcast episodes. The system discovers news, extracts facts, generates editorial angles, evaluates debate quality, orchestrates AI debaters, identifies viral moments, and produces fully voiced podcast content.
 
-*   🚀 **[transformer-architect](https://github.com/Esabelle11/transformer-architect)**
+*   🚀 **[transformer-architect](https://github.com/Esabelle11/transformer-architect)**  
     A unified, production-grade LLM training and alignment framework. Features modular implementations for downstream tasks (**BERT**), Direct Preference Optimization (**DPO**), and Group Relative Policy Optimization (**GRPO** reinforcement learning pipelines) to streamline model alignment and optimize memory overhead.
 
-*   🧮 **[Tool-Augmented-AI-Mathematical-Reasoning-System](https://github.com/Esabelle11/Tool-Augmented-AI-Mathematical-Reasoning-System)**
+*   🧮 **[Tool-Augmented-AI-Mathematical-Reasoning-System](https://github.com/Esabelle11/Tool-Augmented-AI-Mathematical-Reasoning-System)**  
     A tool-augmented LLM reasoning system designed to eliminate hallucinations in multi-step complex problem-solving. Features an advanced orchestrator for multi-step prompt decomposition, LaTeX parsing, and a secure programmatic validation loop using Python execution sandboxes.
 
-*   🏗️ **[Prompt Linter](https://github.com/Esabelle11/Pompt-Linter)**
+*   🏗️ **[Prompt Linter](https://github.com/Esabelle11/Pompt-Linter)**  
    A Developer Experience (DX) tool built with the OpenAI Responses API and GPT models that transforms vague developer prompts into structured software specifications before generating structured project scaffolds.
 
-*   🤖 **[WhyBuddy](https://github.com/Esabelle11/WhyBuddy) [The Gemma 4 Good Hackathon]**
-    | [🎬 Watch Demo](https://youtu.be/n-9gwvvPVV4) 
-    An end-to-end multimodal educational AI assistant powered by Gemma 4. It orchestrates an advanced, unified pipeline combining natural language reasoning, vector-based knowledge retrieval (RAG), image generation, text-to-speech (TTS), and video synthesis for real-time interactive learning.
+*   🤖 **[WhyBuddy](https://github.com/Esabelle11/WhyBuddy) [The Gemma 4 Good Hackathon]** | [🎬 Watch Demo](https://youtu.be/n-9gwvvPVV4)  
+   An end-to-end multimodal educational AI assistant powered by Gemma 4. It orchestrates an advanced, unified pipeline combining natural language reasoning, vector-based knowledge retrieval (RAG), image generation, text-to-speech (TTS), and video synthesis for real-time interactive learning.
 
-*   💼 **[ElevioCareer](https://github.com/Esabelle11/ElevioCareer)**
-    | [🎬 Watch Demo](https://youtu.be/gE8D9nljh3o) 
+*   💼 **[ElevioCareer](https://github.com/Esabelle11/ElevioCareer)** | [🎬 Watch Demo](https://youtu.be/gE8D9nljh3o)  
     A production-grade, AI-driven enterprise web application that leverages LLMs to parse PDF resumes for precise, embedding-based ATS compatibility scoring, while utilizing asynchronous web scraping to dynamically recommend the top 5 most relevant job listings.
 
-*   🧬 **[RNA 3D Structure Prediction - Kaggle ](https://www.kaggle.com/code/esabellechen/sf-rna-p2-template-protenix-merging)**
+*   🧬 **[RNA 3D Structure Prediction - Kaggle ](https://www.kaggle.com/code/esabellechen/sf-rna-p2-template-protenix-merging)**  
     Built an end-to-end deep learning pipeline utilizing Protenix-based architectures for molecular structure optimization. Implemented rigorous molecular sequence preprocessing, heavy feature engineering, and ensemble-based refinement during the competition validation phase.
 
-*   🌌 **[Seti Image Classification](https://github.com/Esabelle11/seti_classifier)**
-    | [🎬 Watch Demo](https://youtu.be/yxtqx7oFAUk) 
+*   🌌 **[Seti Image Classification](https://github.com/Esabelle11/seti_classifier)** | [🎬 Watch Demo](https://youtu.be/yxtqx7oFAUk)  
     Developed an end-to-end Convolutional Neural Network (CNN) classification and inference pipeline optimized for detecting anomalies in Seti signal spectrogram images.
 
 ---
